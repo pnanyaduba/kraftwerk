@@ -1,6 +1,6 @@
 SUMMARY OF FINDINGS
 
-Link to Jupyter Notebook: https://github.com/pnanyaduba/kraftwerk/blob/main/assignment_5_1_starter/prompt.ipynb
+Link to Jupyter Notebook: https://github.com/pnanyaduba/kraftwerk/blob/main/assignment_5_1_starter/Project.ipynb
 
 1. Proportion of the total observations who chose to accept the coupon is: 56.86%
 
@@ -86,4 +86,4 @@ INDEPENDENT INVESTIGATION
 	Using alpha at 0.05 to test the above hypothesis we can conclude that:
 	a. Probability of going to coffee house being above 25 years of age and being less than 25 years are not equal
 	
-Link to Jupyter Notebook: https://github.com/pnanyaduba/kraftwerk/blob/main/assignment_5_1_starter/prompt.ipynb
+Link to Jupyter Notebook: https://github.com/pnanyaduba/kraftwerk/blob/main/assignment_5_1_starter/Project.ipynb
