@@ -16,7 +16,7 @@
     <a href="https://twitter.com/peteberc" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/mltooling.svg?style=social&label=Follow"></a>
 </p>
 
-In this application, I explored a dataset from kaggle that contains information on a subset of 3 million used cars. Our goal is to understand what factors that make a car more or less expensive. The outcome of the analysis provides a clear recommendations to a car dealer - client -- a used car dealership -- as to what consumers value in a used car.
+In this application, I explored a dataset from kaggle that contains information on a subset of 3 million used cars. Our goal is to understand what factors that make a car more or less expensive. The outcome of the analysis provides a clear recommendations to a car dealer (client) -- a used car dealership -- as to what consumers value in a used car.
 
 ---
 
