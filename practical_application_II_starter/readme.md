@@ -21,14 +21,14 @@ In this application, I explored a dataset from kaggle that contains information 
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Discover My Page on Twitter @peteberc<br>
+     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="https://github.com/pnanyaduba/kraftwerk/blob/main/practical_application_II_starter/prompt_II.ipynb">@Prompt II</a> <br>
     📫&nbsp; Subscribe to my Twitter handle <a href="http://twitter.com/peteberc">@peteberc</a> for updates and my tweets.
 </p>
 
 ---
 
 
-## Contents
+## Contents on Jupyter Notebook Steps
 
 - Information about the data
 - Dropping Unwanted Columns
@@ -49,7 +49,7 @@ In this application, I explored a dataset from kaggle that contains information 
 
 <br>
 
-## Machine Learning Libraries Used.
+## Machine Learning Libraries Used on Jupyter Notebook
 
 - statsmodels.tsa.filters.filtertools as ft
 - sklearn.metrics import mean_squared_error
