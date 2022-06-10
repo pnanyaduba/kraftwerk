@@ -78,4 +78,4 @@ In this application, I explored a dataset from kaggle that contains information 
 - scipy import stats
 - scipy.linalg import svd
 - warnings
-- warnings.filterwarnings('ignore')Information about the data
+- warnings.filterwarnings('ignore')
