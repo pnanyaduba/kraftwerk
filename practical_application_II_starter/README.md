@@ -30,6 +30,7 @@ In this application, I explored a dataset from kaggle that contains information 
 
 ## Contents on Jupyter Notebook Steps
 
+- [Jupyter Notebook Link](https://github.com/pnanyaduba/kraftwerk/blob/main/practical_application_II_starter/prompt_II.ipynb)
 - Information about the data
 - Dropping Unwanted Columns
 - Filling Empty Cells
