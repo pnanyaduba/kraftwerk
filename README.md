@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; My Github Repo for my Study of Artificial Intelligence and Machine Learning as a UCBerkely student</strong>
+    <strong>🏆&nbsp; My Github Repo for my Study for Professional Certificate in Artificial Intelligence and Machine Learning as a UCBerkely student</strong>
 </p>
 
 <p align="center">
