@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A Study using the CRISP-DM Framework.</strong>
+    <strong>🏆&nbsp; A Study of Used Cars using the CRISP-DM Framework.</strong>
 </p>
 
 <p align="center">
